@@ -1,0 +1,145 @@
+export const certificate = [
+  {
+    id: 1,
+    cover: "https://img.icons8.com/wired/64/web-design.png",
+    title: "Graphic Design certificate",
+    duration: "3 mounths",
+    desc: "A graphic design course is an educational program that focuses on teaching students the principles, skills, and techniques necessary to create visual content for various media and communication purposes.This course cover topics.",
+    price: "CAD $ 650",
+  },
+  {
+    id: 2,
+    cover: "https://img.icons8.com/wired/64/system-information.png",
+    title: "System Design certificate",
+    duration: "6 mounths",
+    desc: "A system design course is a specialized educational program that focuses on teaching students how to design and create complex, integrated systems, often in the fields of computer science, engineering, or other technical disciplines.",
+    price: "CAD $ 1000",
+  },
+  {
+    id: 3,
+    cover: "https://img.icons8.com/ios/50/web-design.png",
+    title: "WEB Design certificate",
+    duration: "3 mounths",
+    desc: "A web design course is an educational program that teaches individuals the skills and knowledge needed to create and design websites. These courses typically cover various aspects of web design, incliding HTML and CSS, UX/UI",
+    price: "CAD $ 730",
+  },
+];
+
+export const firstTerm = [
+  {
+    id: 1,
+    name: "Math",
+    code: "MATH1010",
+    cover: "https://img.icons8.com/ios-filled/50/abacus.png",
+    startDate: "Jan 2024",
+    endDate: "Apr 2024",
+    price: "CAD $710",
+  },
+  {
+    id: 2,
+    name: "C++",
+    code: "SODV1111",
+    cover: "https://img.icons8.com/deco/48/c-plus-plus.png",
+    startDate: "Jan 2024",
+    endDate: "Apr 2024",
+    price: "CAD $730",
+  },
+  {
+    id: 3,
+    name: "IOT",
+    code: "SODV1211",
+    cover: "https://img.icons8.com/ios/50/internet-of-things.png",
+    startDate: "Jan 2024",
+    endDate: "Apr 2024",
+    price: "CAD $730",
+  },
+];
+export const secondTerm = [
+  {
+    id: 1,
+    name: "WEB",
+    code: "SODV1322",
+    cover:
+      "https://img.icons8.com/external-outline-design-circle/66/external-Webpages-web-design-and-development-outline-design-circle-2.png",
+    startDate: "May 2024",
+    endDate: "Aug 2024",
+    price: "CAD $730",
+  },
+  {
+    id: 2,
+    name: "C#",
+    code: "SODV1323",
+    cover: "https://img.icons8.com/deco/48/cs.png",
+    startDate: "May 2024",
+    endDate: "Aug 2024",
+    price: " CAD $750",
+  },
+  {
+    id: 3,
+    name: "UX/UI",
+    code: "DECS2330",
+    cover: "https://img.icons8.com/ios/50/windows10-personalization.png",
+    startDate: "May 2024",
+    endDate: "Aug 2024",
+    price: " CAD $720",
+  },
+];
+export const thirdTerm = [
+  {
+    id: 1,
+    name: "REACT",
+    code: "SODV1326",
+    cover: "https://img.icons8.com/ios-glyphs/30/react.png",
+    startDate: "Sep 2024",
+    endDate: "Dec 2024",
+    price: " CAD $750",
+  },
+  {
+    id: 2,
+    name: "JAVA",
+    code: "SODV1324",
+    cover: "https://img.icons8.com/ios/50/java-coffee-cup-logo.png",
+    startDate: "Sep 2024",
+    endDate: "Dec 2024",
+    price: " CAD $800",
+  },
+  {
+    id: 3,
+    name: "Android",
+    code: "SODV1328",
+    cover: "https://img.icons8.com/ios/50/android-os.png",
+    startDate: "Sep 2024",
+    endDate: "Dec 2024",
+    price: " CAD $740",
+  },
+];
+export const fourthTerm = [
+  {
+    id: 1,
+    name: "Flutter",
+    code: "SODV2022",
+    cover: "https://img.icons8.com/ios/50/flutter.png",
+    startDate: "Jan 2025",
+    endDate: "Apr 2025",
+    price: " CAD $725",
+  },
+  {
+    id: 2,
+    name: "Agile",
+    code: "MMGM2215",
+    cover:
+      "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-agile-web-design-and-development-flatart-icons-outline-flatarticons.png",
+    startDate: "Jan 2025",
+    endDate: "Apr 2025",
+    price: " CAD $740",
+  },
+  {
+    id: 3,
+    name: "Swift",
+    code: "SODV2027",
+    cover: "https://img.icons8.com/ios/50/swift--v1.png",
+    startDate: "Jan 2025",
+    endDate: "Apr 2025",
+    price: " CAD $750",
+  },
+];
